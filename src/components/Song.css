@@ -1,0 +1,14 @@
+.song{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #7DF9FF;
+    border-radius: 12 px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+    text-align: center;
+    color: white;
+}
+
+.song h2{
+    font-size: 2rem;
+    color: black;
+}
