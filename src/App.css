@@ -10,7 +10,7 @@ div{
   border-radius: 12px;
 }
 
-button{
+/* button{
   font: inherit;
   cursor: pointer;
   background: #230052;
@@ -18,7 +18,7 @@ button{
   color: white;
   padding: 0.75rem 2rem;
   border-radius: 20px;
-}
+} */
 
 button:focus{
   outline: none;
